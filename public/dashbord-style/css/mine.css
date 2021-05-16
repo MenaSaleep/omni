@@ -1,0 +1,189 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  color: #061738;
+  text-decoration: none;
+  background: ffc107;
+  transition: all 1s
+
+}
+
+
+span {
+    cursor: pointer;
+}
+.lnr-menu {
+    font-size: 44px;
+    margin-left: 11px;
+    /* left: 35px; */
+    /* top: 30px; */
+    cursor: pointer;
+}
+
+.lnr-cross {
+    font-size: 41px;
+    position: absolute;
+    left: 240px;
+    cursor: pointer;
+
+}
+
+.menu-nav {
+    top: 0px;
+    position: absolute;
+    background: #fff;
+    box-shadow: 0px 0px 4px 0px;
+    left: 0px;
+    padding: 7px;
+    height: 100vh;
+    width: 300px;
+    z-index: 99;
+    margin-left: -306px;
+    transition: all 5px;
+}
+
+
+
+.menu-nav ul li {
+    list-style: none;
+    padding: 4px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-size: 18px;
+}
+
+.menu-nav h4 {
+    font-size: 30px;
+    color: #404040;
+    margin-bottom: 0px;
+    margin-top: 25px;
+}
+
+
+.menu-nav p {
+    font-size: 14px;
+    color: #ffc107;
+}
+
+
+.navgition {
+    box-shadow: 0px 0px 3px 0px;
+    padding: 10px;
+}
+
+
+
+
+
+.form-design h3 {
+    margin: 70px 0px 37px 0px;
+    font-weight: 600;
+}
+
+.form-design input, .form-design textarea, .form-design select {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #9c9c9cba;
+    border-radius: 3px;
+    outline: none
+}
+
+#files {
+  display: none;
+}
+
+.upload-image {
+    border: 1px solid #9c9c9cba;
+    padding: 10px;
+    border-radius: 3px;
+    width: 100%;
+    text-align: center;
+}
+
+.upload-image span {
+    display: block;
+    font-size: 24px;
+    background: #000;
+    width: 60px;
+    color: #fff;
+    text-align: center;
+    height: 60px;
+    border-radius: 100px;
+    font-weight: bold;
+    line-height: 52px;
+    margin: auto;
+    margin-bottom: 6px;
+    border: 1px solid;
+}
+
+
+
+
+
+
+
+
+
+table ul {
+    background: #0000000d;
+    padding: 13px;
+    margin-bottom: 20px;
+}
+
+
+table ul li {
+    display: inline-block;
+    padding: 10px;
+}
+
+
+
+.count {
+    padding: 100px 10px;
+}
+
+.count .content {
+    text-align: center;
+    text-align: center;
+    padding: 27px 0px;
+    box-shadow: 0px 0px 10px 1px #eee;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+.count strong {
+    font-size: 50px;
+}
+
+
+
+
+
+
+
+.profile .user{
+    border: 1px solid #ccc;
+    padding: 20px;
+}
+
+.profile a {
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+
+.profile img {
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    display: table;
+    border-radius: 121px;
+}
+
+
+
+
+
